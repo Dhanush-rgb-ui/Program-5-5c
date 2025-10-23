@@ -3,6 +3,7 @@
 To write a C program to read matrix [3x3] that prints the sum of major(main) and minor(off) diagonal element:
 
 ## For example:
+<img width="351" height="292" alt="image" src="https://github.com/user-attachments/assets/04063ee2-0890-4f0e-b5cb-315cf51c427a" />
 
 
 ## Program:
@@ -53,3 +54,4 @@ int main()
 }
 ```
 ## Result:
+<img width="727" height="550" alt="image" src="https://github.com/user-attachments/assets/f6347b6e-b123-4110-b7c1-0920a1dad26e" />
